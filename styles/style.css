@@ -1,0 +1,10 @@
+*{
+    color: black;
+    text-align: center;
+}
+a{
+    border: 1px solid black;
+    text-decoration: none;
+    padding: 10px;
+    background-color: yellow;
+}
