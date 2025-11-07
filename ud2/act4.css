@@ -1,0 +1,56 @@
+.azul{
+    background: blue;
+    width: 300px;
+    height: 150px;
+    float: left;
+    margin: 20px;
+    margin-left: 100px;
+}
+.morado{
+    background: purple;
+    width: 300px;
+    height: 150px;
+    float: left;
+    margin: 20px;
+
+}
+.rojo{
+    background: red;
+    width: 300px;
+    height: 350px;
+    float: left;
+    margin: 20px;
+}
+.amarillo{
+    background: yellow;
+    width: 300px;
+    height: 150px;
+    clear: left;
+    float: left;
+    margin: 20px;
+    margin-left: 100px;
+}
+.verde{
+    background: green;
+    width: 300px;
+    height: 150px;
+    float: left;
+    margin: 20px;
+ 
+   
+}
+.naranja{
+    background: orange;
+    width: 300px;
+    height: 150px;
+    float: left;
+    margin: 20px;
+}
+.marron{
+    background: brown;
+    width: 300px;
+    height: 150px;
+    clear: left;
+    margin: 20px;
+    margin-left: 100px;
+}
