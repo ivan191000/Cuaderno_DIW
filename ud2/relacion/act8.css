@@ -1,0 +1,8 @@
+ol li{
+    
+    color: green;    /* estilo verde para los li dentro de ol */
+}
+ol li ul li{
+    list-style: circle;  /* estilo circulo y azul para los li dentro de ul dentro de li dentro de ol(la lista anidada) */
+    color: blue;
+}

@@ -1,0 +1,8 @@
+table tr th,td{      /* le pongo un borde negro tanto a los th como los td */
+    border: 1px solid black;
+}
+
+table tbody tr th,td{
+    font-size: 20px;    /* cambio el tamaño y color de los th y td que hay en tbody */
+    color: red;
+}

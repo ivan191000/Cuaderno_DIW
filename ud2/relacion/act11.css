@@ -1,0 +1,9 @@
+p{
+    color: #008000; /* para los parrafos este seria el color verde puro */
+    text-align: center;  /* alineamos todos los p*/
+}
+
+
+ p{
+    color: rgb(139, 0, 0);/* para el rojo oscuro simplemente buscamos darkred y en su rgb aparece asi */
+ }

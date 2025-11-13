@@ -1,0 +1,3 @@
+p:first-of-type span{   /* cogemos el primer span dentro de la primera p y cambiamos estilo */
+    color: red;
+}

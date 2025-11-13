@@ -1,0 +1,30 @@
+table tr th,td{
+    border: 1px solid black;  /* le añado borde */
+}
+
+.recreo{
+    text-align: center;
+    background: #64c956;   /* centro y añado estilos */
+}
+
+.especial{
+    background: #eb4141;
+}
+.diseño{
+    background: #0b4888;
+}
+.hora{
+    background: #47055c;
+}
+.d{
+    background: #4ec807;
+}
+.i{
+    background: #da1899;
+}
+.ip{
+    background: #560d0d;
+}
+.dia{
+    background: #79d7e8;
+}

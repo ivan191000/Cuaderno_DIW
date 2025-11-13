@@ -1,0 +1,59 @@
+p{
+    margin: 0;    /* le quito el margen y cambio la tipografia */
+    font-family: 'Courier New', Courier, monospace;
+}
+p:nth-last-of-type(1){    /* con cada parrafo aplico un backgraund de #000 a #fff */
+    background: #000;
+    color: white;
+}
+p:nth-last-of-type(2){
+    background: #111;
+    color: white;
+}
+p:nth-last-of-type(3){
+    background: #222;
+    color: white;
+}
+p:nth-last-of-type(4){
+    background: #333;
+    color: white;
+}
+p:nth-last-of-type(5){
+    background: #444;
+    color: white;
+}
+p:nth-last-of-type(6){
+    background: #555;
+    color: white;
+}
+p:nth-last-of-type(7){
+    background: #666;
+    color: white;
+}
+p:nth-last-of-type(8){
+    background: #777;
+}
+p:nth-last-of-type(9){
+    background: #888;
+}
+p:nth-last-of-type(10){
+    background: #999;
+}
+p:nth-last-of-type(11){
+    background: #aaa;
+}
+p:nth-last-of-type(12){
+    background: #bbb;
+}
+p:nth-last-of-type(13){
+    background: #ccc;
+}
+p:nth-last-of-type(14){
+    background: #ddd;
+}
+p:nth-last-of-type(15){
+    background: #eee;
+}
+p:nth-last-of-type(16){
+    background: #fff;
+}

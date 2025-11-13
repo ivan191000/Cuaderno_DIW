@@ -1,0 +1,9 @@
+.lista1 li:nth-child(odd){          /* llamo a la clase lista1 y dentro del li hacemos un nth child odd que son los impares y tachamos con line through */
+    text-decoration: line-through;
+}
+.lista1 li:nth-child(even){         /* con even (pares) hacemos un subrallado con underline*/
+    text-decoration: underline;
+}
+.lista2 li:nth-child(4n){       /* llamamos a lista2 y ponemos la fuente de color verde de los multiplos de 4 que se pondra con 4n*/
+    color: green;
+}

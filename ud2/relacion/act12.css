@@ -1,0 +1,15 @@
+section h1{   /* solo quiero que afecte al h1 del section */
+    letter-spacing: 3%;  /* espacio entre caracteres */
+    word-spacing: 2%;    /* espacio entre palabra */
+    text-transform: uppercase;   /* texto en mayuscula */
+}
+h2{
+    letter-spacing: 2%;
+    word-spacing: 2%;
+    text-transform: uppercase;
+}
+h3{
+    letter-spacing: 1%;
+    word-spacing: 1%;
+    text-transform: uppercase;
+}

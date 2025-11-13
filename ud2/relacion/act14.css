@@ -1,0 +1,4 @@
+a{
+    text-decoration: none;   /* quito el subrayado  */
+    text-decoration: line-through;   /* añado tachado */
+}

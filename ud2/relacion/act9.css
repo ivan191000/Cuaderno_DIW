@@ -1,0 +1,3 @@
+p:first-of-type{    /* indicamos que para el primer parrafo se desplace un 5 por ciento */
+    text-indent: 10%;
+}

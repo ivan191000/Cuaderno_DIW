@@ -1,0 +1,14 @@
+table,tr,th,td{            /* pongo borde de 1 px */
+    border: 1px solid black;
+    text-align: center;  /* centro todo el texto */
+    
+}
+th{ /* al encabezado le cambio el color */
+    background: orange;
+}
+table{  /* añado ancho de 100% */
+    width: 100%;
+}
+td{  /* cambio color a lo demas */
+    background: yellow;
+}

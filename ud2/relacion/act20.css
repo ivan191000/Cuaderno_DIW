@@ -1,0 +1,13 @@
+h1:nth-child(2){
+    text-transform: uppercase;   /* lo he recorrido con nth child y le he hecho las diferentes transformaciones */
+    color: red;
+}
+h1:nth-child(3){
+    text-transform: lowercase;
+    color: rgb(17, 196, 216);
+}
+h1:nth-child(4){
+    text-transform: capitalize;  /* pone en mayuscula la primera letra de cada palabra */
+    color: rgb(177, 13, 189);
+}
+

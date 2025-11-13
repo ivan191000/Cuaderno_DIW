@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    width: 16%;
+    margin: auto;
+    margin-top: 10%;
+    
+    
+}
+input{
+    height: 2em;
+
+    
+}
+input:nth-child(1){
+    border-top-left-radius: 17%;
+    border-top-right-radius: 17%;
+    
+    
+}
+button{
+    border-bottom-left-radius: 17%;
+    border-bottom-right-radius: 17%;
+}
+body{
+    background-image: url("https://th.bing.com/th/id/OIP.9RAFhrcPKJw52N4poO6N8gHaHa?w=190&h=190&c=7&r=0&o=7&cb=12&pid=1.7&rm=3");
+    background-repeat: repeat;
+}

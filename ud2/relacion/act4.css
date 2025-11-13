@@ -1,0 +1,7 @@
+table tr td{
+    border: 1px solid black; /* porngo un borde negro para resaltarla */
+    
+}
+table tr:only-child{     /* y ahora le indicamos que si solo hay una fila se pondra amarilla ya que funciona para hijos unicos */
+    background: yellow;
+}

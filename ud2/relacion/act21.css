@@ -1,0 +1,13 @@
+.tarjeta{
+    
+    border-radius: 15px; /* hacemos borde de 15 */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);   /* sombra suave */
+    
+    background-image: url("https://www.bing.com/th/id/OIP.y6Ovqup1C4MqzHuQmtzA-QHaEc?w=264&h=211&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2");/* introducimos imagen */
+    background-repeat: repeat; /* repetimos patron de imgaen */
+    width: 20%;  /* ancho de 20 */
+    text-align: center;  /* centramos texto */
+    padding: 5%;   /* padding para espandir contenido del texto */
+    color: rgb(255, 255,255, 0.9);   /* color blanco con opacidad del 90 */
+
+}

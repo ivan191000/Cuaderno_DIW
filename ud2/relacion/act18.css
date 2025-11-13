@@ -1,0 +1,10 @@
+.contenedor{
+    display: grid;
+    grid-template-columns: 10% 10%10%;   /* hago display grid y le agrego por columna 10% ademas de aplicar unos 10 px entre divs*/
+     grid-gap: 10px;
+}
+
+.item{
+   
+    border: 1px solid grey;
+}
