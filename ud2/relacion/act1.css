@@ -1,6 +1,0 @@
-section article:first-child{     /* aplico first child dentro del articulo que esta dentro de seccion */
-border-top: 1px solid black;   /* y ponemos un border top de un pixel */
-}
-section article:last-child{         /* hacemos un last child para despues realizarle un borde inferior al ultimo parrafo */
-    border-bottom: 1px solid black;
-}

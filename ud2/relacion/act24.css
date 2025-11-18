@@ -1,4 +1,0 @@
-span:nth-child(even){  
-color: blue;   /* cambio el color y lo pongo en negrita de los pares(even)*/
-font-weight: bold;
-}

@@ -1,3 +1,0 @@
-p::before{   /* indicamos que antes de cada p va un contenido en este caso (guion) */
-    content: "-";
-}

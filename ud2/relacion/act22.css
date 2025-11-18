@@ -1,9 +1,0 @@
-.contenedor{
-    display: flex;       /* hacemos display flex para que nos ayude a centrar el texto */
-    align-items: center; /* centra el texto verticalmente */
-    justify-content: center;  /* centra horizontal */
-    border: 2px solid black;
-    width: 300px;
-    height: 300px;
-    font-size: 2em;
-}

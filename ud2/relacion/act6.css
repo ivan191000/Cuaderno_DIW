@@ -1,3 +1,0 @@
-ol li::first-letter{              /* ahora indico en la lista dentro de ol que se subrayara la primera letra de todos los dias con first letter */
-    text-decoration: underline;
-}

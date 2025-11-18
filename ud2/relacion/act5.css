@@ -1,6 +1,0 @@
-table tr td{
-    border: 1px solid black;   /* aplico borde */
-}
-table tr td:empty{
-    background: yellow;       /* comprobamos si el td que esta dentro de la fila que esta dentro de la tabla esta vacia(no tiene elementos hijos) y aplicamos bg amarillo */
-}
