@@ -1,0 +1,46 @@
+*{
+    margin:0;
+    padding:0;
+}
+.menu{
+    width: 25vw;
+    height: 100vh;
+    background-color: rgba(182, 182, 59, 0.589);
+    border-right: 1px solid black;
+}
+.header-menu{
+    padding: 1vw;
+    color: rgb(71, 23, 23);
+    margin-bottom: 5vh;
+}
+.header-menu h2{
+    width: 15vw;
+    float: left;
+}
+.header-menu button{
+    width: 2vw;
+    font-size: 1vw;
+    height: 3vh;
+    float: left;
+    margin-top: 1vh;
+    margin-left: 5vw;
+    background: none;
+    border:none;
+}
+.header-menu button:hover{
+    cursor: pointer;
+    background-color:  rgba(182, 182, 59, 0.753);
+}
+a{
+    align-content: center;
+    padding-left: 2vw;
+    text-decoration: none;
+    display: block;
+    height: 3vh;
+    background-color: rgb(156, 72, 72);
+    color : white;
+    border: 1px solid black;
+}
+a:hover{
+    background-color: rgb(200, 100, 100);
+}
