@@ -1,0 +1,76 @@
+.fila1{
+    display: flex;
+    justify-content: center;
+    
+}
+.fila2{
+    display: flex;
+    justify-content: center;
+}
+.item5 img{
+    height: 10.5em;
+    width: 18.7em;
+}
+.item6 img{
+    height: 10.5em;
+}
+.fila3{
+    display: flex;
+    justify-content: center;
+}
+.item8 img{
+    height: 10.5em;
+    width: 18.7em;
+}
+h1,p{
+    text-align: center;
+    color: blueviolet;
+}
+
+.item1,.item2,.item3,.item4,.item5,.item6,.item7,.item8{
+    background: grey;
+    border: 2px solid black;
+    border-radius: 2em;
+    padding: 1em;
+    padding-bottom: 2em;
+    margin: 2em;
+    
+}
+body{
+    background: #000;
+}
+.item1{
+    filter: grayscale(100%);
+    
+}
+.item2{
+    filter: blur(5px)
+    
+}
+.item3{
+    filter: sepia(100%)
+    
+}
+.item4{
+    filter: saturate(200%)
+    
+}
+.item5{
+    filter: invert(100%)
+    
+}
+.item6{
+    filter:brightness(50%) contrast(150%)
+    
+}
+.item7{
+    filter: hue-rotate(90deg)
+    
+}
+.item8{
+    filter: drop-shadow(2px 2px 4px rgba(194, 17, 17, 0.7))
+    
+}
+.item1:hover,.item2:hover,.item3:hover,.item4:hover,.item5:hover,.item6:hover,.item7:hover,.item8:hover{
+   filter: none;
+}
