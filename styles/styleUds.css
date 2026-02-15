@@ -3,15 +3,19 @@
     padding:0;
 }
 .menu{
-    width: 25vw;
+    width: 30vw;
     height: 100vh;
     background-color: rgba(182, 182, 59, 0.589);
     border-right: 1px solid black;
+    display: flex;
+    flex-direction: column;
 }
 .header-menu{
     padding: 1vw;
     color: rgb(71, 23, 23);
     margin-bottom: 5vh;
+    display: flex;
+    flex-direction: row;
 }
 .header-menu h2{
     width: 15vw;
@@ -43,4 +47,10 @@ a{
 }
 a:hover{
     background-color: rgb(200, 100, 100);
+}
+
+.atras{
+    width: 100%;
+    height: 100%;
+    src: url(/index.html);
 }

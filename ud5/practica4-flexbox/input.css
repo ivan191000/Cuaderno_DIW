@@ -1,0 +1,54 @@
+@import "tailwindcss";
+
+/*PRIMER BLOQUE*/
+.main-body{
+    @apply bg-gray-400 w-full h-[100vh] p-4};
+
+.main-pannel{
+    @apply flex flex-row justify-between items-center gap-2 w-[98vw] p-4 bg-white rounded-xl;}
+
+.pannel{
+    @apply flex flex-row gap-2 ;}
+.cube-purple{
+    @apply bg-purple-700 w-6 h-6 rounded-md;}
+
+.circle-gray{
+    @apply w-10 h-10 bg-gray-600 rounded-full;}
+
+/*SEGUNDO BLOQUE*/
+
+.main-pannel-2{ @apply mt-4 flex flex-row}
+
+.pannel-left{@apply flex flex-col gap-5 h-[50vh] p-8 bg-white rounded-xl;}
+
+.cube-red{@apply bg-red-600 w-6 h-6 rounded-md}
+
+.cube-green{@apply bg-green-500 w-6 h-6 rounded-md}
+
+/*BLOQUE DE BOX-COLORES*/
+
+.main-box{@apply ml-4 flex flex-row w-[90vw] gap-2};
+
+.span-text{@apply font-black};
+
+.box-blue{@apply bg-blue-600 w-[50%] p-5 rounded-md text-white};
+
+.box-green{@apply bg-green-800 w-[50%] p-5 rounded-md text-white};
+
+/*GRAFICA DE BARRAS*/
+
+.main-grafico{@apply ml-4 mt-4 p-5 bg-white rounded-md w-[90vw] flex flex-col border-5 border-dotted};
+
+.barras{@apply flex flex-row gap-10 justify-center items-end};
+
+.barra-1{@apply bg-blue-500 h-30 w-14 rounded-md};
+
+.barra-2{@apply bg-blue-600 h-50 w-14 rounded-md};
+
+.barra-3{@apply bg-blue-400 h-20 w-14 rounded-md};
+
+.barra-4{@apply bg-blue-800 h-65 w-14 rounded-md};
+
+.barra-5{@apply bg-purple-400 h-55 w-14 rounded-md};
+
+.barra-6{@apply bg-purple-700 h-60 w-14 rounded-md};

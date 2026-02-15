@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+.marco{
+    @apply w-60
+}
+
+.titulo-pro{
+    @apply text-2xl font-black text-gray-900 leading-relaxed pt-2 pl-4 pr-4;
+}
+.subtitulo-pro{
+    @apply text-xs font-bold tracking-widest text-sky-500 pl-4 pr-4;
+}
+.cuerpo-text{
+    @apply text-xs font-thin text-gray-500 p-4;
+}
+.boton{
+    @apply text-center pl-15;
+}
+.perfil{
+    @apply bg-[#C9EDF5] w-20 h-20 rounded-full ml-4 mt-2;
+}
