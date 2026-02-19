@@ -32,7 +32,7 @@
 
 h1 {
     /*GENERAL*/
-    @apply  mb-[1vh] text-[#6d6a6a] text-center hidden;
+    @apply text-[#6d6a6a] text-center hidden;
     /*RESPONSIVE*/
     @apply lg:block
 }
